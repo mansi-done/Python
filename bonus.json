@@ -1,0 +1,115 @@
+{
+    "employeeBonus":[
+        {
+            "id": 1,
+            "name": "Leanne Graham",
+            "locationId":"1",
+            "locationName":"10",
+            "slabs":[
+                {"slabId":"1",
+                "score": "98",
+                "bonusAmt":"200"
+                },
+
+                {"slabId":"1",
+                    "score": "90",
+                    "bonusAmt":"170"
+                },
+
+                {"slabId":"1",
+                    "score": "80",
+                    "bonusAmt":"100"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Leanne Graham",
+            "locationId":"1",
+            "locationName":"10",
+            "slabs":[
+                {"slabId":"1",
+                "score": "98",
+                "bonusAmt":"200"
+                },
+
+                {"slabId":"1",
+                    "score": "90",
+                    "bonusAmt":"170"
+                },
+
+                {"slabId":"1",
+                    "score": "80",
+                    "bonusAmt":"100"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Leanne Graham",
+            "locationId":"1",
+            "locationName":"10",
+            "slabs":[
+                {"slabId":"1",
+                "score": "98",
+                "bonusAmt":"200"
+                },
+
+                {"slabId":"1",
+                    "score": "90",
+                    "bonusAmt":"170"
+                },
+
+                {"slabId":"1",
+                    "score": "80",
+                    "bonusAmt":"100"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Leanne Graham",
+            "locationId":"1",
+            "locationName":"10",
+            "slabs":[
+                {"slabId":"1",
+                "score": "98",
+                "bonusAmt":"200"
+                },
+
+                {"slabId":"1",
+                    "score": "90",
+                    "bonusAmt":"170"
+                },
+
+                {"slabId":"1",
+                    "score": "80",
+                    "bonusAmt":"100"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Leanne Graham",
+            "locationId":"1",
+            "locationName":"10",
+            "slabs":[
+                {"slabId":"1",
+                "score": "98",
+                "bonusAmt":"200"
+                },
+
+                {"slabId":"1",
+                    "score": "90",
+                    "bonusAmt":"170"
+                },
+
+                {"slabId":"1",
+                    "score": "80",
+                    "bonusAmt":"100"
+                }
+            ]
+        }
+
+    ]
+}

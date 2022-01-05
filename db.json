@@ -1,0 +1,67 @@
+{
+    "employees":[
+        {
+            "id": 1,
+            "name": "Leanne Graham",
+            "location":
+                {
+                    "id":10,
+                    "name":"Bronx"
+                }
+            ,
+            "slab":[
+                { "score":98 , "point":200 },
+                { "score":90 , "point":100},
+                { "score":75 , "point":80 },
+                { "score":60 , "point":50 }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ervin Howell",
+            "location":
+                {
+                    "id":10,
+                    "name":"Bronx"
+                }
+            ,
+            "slab":[
+                { "score":98 , "point":200 },
+                { "score":90 , "point":100},
+                { "score":75 , "point":80 },
+                { "score":60 , "point":50 }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Clementine Bauch",
+            "location":
+                {
+                    "id":14,
+                    "name":"Manhattan"
+                }
+            ,
+            "slab":[
+                { "score":98 , "point":210 },
+                { "score":90 , "point":100},
+                { "score":75 , "point":90 },
+                { "score":60 , "point":50 }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Jenna Marble",
+            "location":
+                {
+                    "id":10,
+                    "name":"Bronx"
+                },
+            "slab":[
+                { "score":98 , "point":200 },
+                { "score":90 , "point":100},
+                { "score":75 , "point":80 },
+                { "score":60 , "point":50 }
+            ]
+        }
+    ]
+}
