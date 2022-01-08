@@ -6,6 +6,7 @@ import Employee from './components/Employee';
 import Header from './components/Header';
 // import Slab from './components/Slab';
 import BonusEditor from './components/BonusEditor';
+import AddEmployee from './components/AddEmployee';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Routes>
           <Route exact path="/" element={<Employee />}/>
           <Route exact path="/edit/:id/:lid" element={<BonusEditor />}/>
+          <Route exact path="/addEmp" element={<AddEmployee />}/>
         </Routes>
       </Router>
     </div>

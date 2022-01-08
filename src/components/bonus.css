@@ -1,12 +1,3 @@
-/* .bonusEditor{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
-
-/* .score{
-    font-size: 1.6rem;
-} */
 
 .scoreSlab{
     display: flex;
@@ -15,3 +6,4 @@
     padding-left: 50px;
     padding-right: 50px;
 }
+
