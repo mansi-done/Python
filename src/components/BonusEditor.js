@@ -3,11 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { nanoid } from "nanoid";
 import axios from "axios";
 import Table from "react-bootstrap/Table";
-// import Button from 'react-bootstrap/Button';
-// import styled from 'styled-components'
-// import Modal from './Modal';
 import { useParams } from "react-router-dom";
-// import Form from 'react-bootstrap/Form';
 import "./bonus.css";
 import Input from "./Input";
 
